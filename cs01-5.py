@@ -1,5 +1,5 @@
-A=int(input(46))
-B=int(input(666)
-C=A+B
 
-print(C)
+A=int(input())
+B=int(input())
+H=A + B
+print(H)
