@@ -1,1 +1,2 @@
-print("Nathanon Promkaew ")
+A=input("Apple")
+print(A)
