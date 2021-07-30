@@ -1,4 +1,4 @@
-for i in range(10):
+for i in range(5):
     for j in range(0,i+1):
         print("*",end="")
     print("/n")
