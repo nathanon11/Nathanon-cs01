@@ -1,3 +1,6 @@
-Name=('Nathanon','Promkaew','38213')
-for i in range(len(Name)):
-    print(Name[i])
+i= int(input(''))
+while (i >1) :
+    print(i)
+    i=int(input(''))
+    if i == -1:
+        break 
