@@ -1,5 +1,5 @@
-Num = (5,1,2,3,4,5)
-Num.sort()
-print(Num(0))
-nvm=len(Num)
-print(Num(nvm-1))
+name= ("Nathanon","Promkaew","38213")
+x=name[0]
+y=name[1]
+z=name[2]
+print(x,y,z)
